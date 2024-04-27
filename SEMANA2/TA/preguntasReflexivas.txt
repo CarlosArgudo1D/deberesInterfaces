@@ -1,0 +1,36 @@
+####DISEÑO Y PROGRAMACION
+
+### ¿Cuál es la importancia de la planificación del diseño antes de comenzar a escribir código en un proyecto de desarrollo de software?
+
+A. ¿La planificación del diseño ayuda a definir claramente los requisitos y objetivos del proyecto?
+
+B. ¿La planificación del diseño es una pérdida de tiempo y recursos?
+
+C. ¿Es mejor comenzar a codificar de inmediato y ajustar el diseño según sea necesario?
+
+**ANSWER: A**
+
+---
+
+### ¿Cuál es el objetivo principal del diseño en el desarrollo de software?
+
+A. ¿Incrementar la complejidad del código?
+
+B. ¿Minimizar la comunicación dentro del equipo de desarrollo?
+
+C. ¿Mejorar la legibilidad y mantenibilidad del código?
+
+**ANSWER: C**
+
+---
+
+### ¿Cómo puede un diseño bien pensado mejorar la experiencia del usuario y la percepción de calidad de un software?
+
+A. ¿Priorizando la eficiencia del código sobre la usabilidad del producto final?
+
+B. ¿Creando interfaces intuitivas y flujos de trabajo optimizados para el usuario?
+
+C. ¿Ignorando las preferencias y necesidades del usuario en favor de una implementación más rápida?
+
+**ANSWER: B**
+
